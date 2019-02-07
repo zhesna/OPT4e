@@ -54,6 +54,8 @@ z.esnaashariesfahan@wsu.edu
 
 Citation request:
 
+-Esna Ashari Z, Brayton KA, Broschat SL. Prediction of T4SS Effector Proteins for Anaplasma Phagocytophilum Using OPT4e. Submitted to Frontiers in Microbiology Journal, Feb. 2019.
+
 -Esna Ashari Z, Brayton KA, Broschat SL. Using an optimal set of features with a machine learning-based approach to predict effector proteins for Legionella pneumophila. PLoS ONE 2019; 14(1): e0202312. (https://doi.org/10.1371/journal.pone.0202312).
 
 -Esna Ashari Z, Dasgupta N, Brayton KA, Broschat SL. An optimal set of features for predicting type IV secretion system effector proteins for a subset of species based on a multi-level feature selection approach. PLoS ONE 2018; 13(5): e0197041. (https://doi.org/10.1371/journal.pone.0197041).
