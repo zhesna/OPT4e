@@ -1,5 +1,7 @@
 ### OPT4e:
 
+#### (Optimal Prediction for T4SS Effector proteins)
+
 OPT4e is a software package written in python3 for the purpose of optimal prediction of type IV secretion system effector proteins among the set of proteins provided. (note that this software is based on input protein sequence(s) and there is no need to provide the whole genome of a bacterial pathogen as an input.)
 Since the installation procedure is different for each platform and it is a one-time procedure, it is explained in the OPT4e manual of each operating system. 
 
