@@ -13,7 +13,7 @@ There are some sequences already in this file for the purpose of testing.
 
 -To run the software, simply run OPT4e notebook (it is highly recommended to use Jupyter Notebook version of OPT4e, but also,  OPT4e.py script can be used as well.) After running the notebook, GUI will open up giving you some options to choose based on what you want to do. 
 
-=>To run Jupyter Notebook you can search its name in your start menu in windows systems and click on its icon. See this figure:
+=>To run Jupyter Notebook you can search its name in your start menu in windows systems and click on its icon.
 
 After clicking, a terminal for jupyter notebook will be opened and then it will open a page in your browser automatically. 
 
