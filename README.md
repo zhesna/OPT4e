@@ -6,6 +6,7 @@ OPT4e is a software package written in python3 for the purpose of optimal predic
 
 
 **Getting Started with OPT4e**:
+
 OPT4e has three different versions provided for three types of operating systems and a manual is provided for each version. Each manual includes the installation procedure (which is one-time) and then running OPT4e.
 
 Please make sure to go through OPT4e  manual for each version.
