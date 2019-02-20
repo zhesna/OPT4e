@@ -11,6 +11,8 @@ OPT4e has three different versions provided for three types of operating systems
 
 Please make sure to go through OPT4e  manual for each version.
 
+(In order to download any of the files, please click on it and in the new openned page, use the download button.)
+
 Thank you for using OPT4e.
 
 Zhila Esna Ashari
