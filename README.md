@@ -19,6 +19,8 @@ Zhila Esna Ashari
 
 z.esnaashariesfahan@wsu.edu
 
+(In case of using the software or making use of the source code or other materials, please make sure to cite these references:)
+
 **Citations:**
 
 -Esna Ashari Z, Brayton KA, Broschat SL. Prediction of T4SS Effector Proteins for Anaplasma Phagocytophilum Using OPT4e. Submitted to Frontiers in Microbiology Journal, Feb. 2019.
